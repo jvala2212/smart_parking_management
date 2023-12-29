@@ -1,0 +1,90 @@
+OBJECTID,FACILITYID,INTID,SALESFORCEID,SUBTYPEID,NAME,ADDRESS,OWNERSHIP,TOTALSPACECOUNT,EVSPACECOUNT,ADASPACECOUNT,RESERVEDSPACECOUNT,VALIDATION,PARKINGTYPE,NUMBEROFLEVELS,PERMITS,BIPLEASE,BIPAREA,CREATIONDATE,LASTUPDATE,NOTES,SHAPE_Length,SHAPE_Area
+2,2,2,0.0,0.0,SJ State University 7th Street, ,SJSU Parking,1980.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:34+00,none,1434.256565,123290.0296
+4,4,4,0.0,0.0,SJ State University 10th Street Garage, ,SJSU Parking,1490.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:34+00,none,1584.074221,132667.9522
+5,5,5,0.0,0.0,Cahill Lot 4 (Caltrain 4),"4 Cahill Street, San Jose, CA",City of San Jose,149.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:34+00,none,936.9897092,54333.3593
+6,6,6,0.0,0.0,Cahill Lot 2 (Caltrain 2),"21 Cahill Street, San Jose, CA",City of San Jose,162.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:34+00,none,947.3984046,55899.87649
+7,7,7,0.0,0.0,Cahill Lot 3 (Caltrain 3),71 Cahill Street,City of San Jose,90.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:34+00,none,778.8291209,37121.44225
+8,8,8,0.0,0.0,Cahill Lot 1 (Caltrain 1),"19 Cahill Street, San Jose, CA",City of San Jose,180.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:34+00,none,1009.595165,62843.3934
+9,9,9,0.0,0.0,Autumn St. Lot (Akatiff Lot),"350 Autumn Street, San Jose, CA",Privately Owned Parking with Public Access,523.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:34+00,none,1151.954855,80214.68018
+10,10,10,0.0,0.0,333 W. Julian,333 W Julian St,Private,1592.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:34+00,none,2618.978199,186688.5535
+11,11,11,0.0,0.0,City Hall Garage,"200 East Santa Clara Street, San Jose, CA",City of San Jose,372.0,7.0,11.0,15.0,No,Garage,1.0,15.0,0.0,0.0,0.0,2021/06/23 00:08:34+00,none,1967.916925,207721.3447
+12,12,12,0.0,0.0,(City View Plaza Garage) Park Center Plaza I,"115 South Market Street, San Jose, CA",Privately Owned Parking with Public Access,1028.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:34+00,none,2420.488765,290281.3793
+14,14,14,0.0,0.0,10 Almaden,10 Almaden Av,Privately Owned Parking with Public Access,735.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:34+00,none,1117.857563,40957.28508
+15,15,15,0.0,0.0, ,"89 South Almaden Avenue, San Jose, CA",Private,79.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,932.3985208,55804.57787
+16,16,16,0.0,0.0,Santa Clara/Almaden,"7 North Almaden Boulevard, San Jose, CA",Privately Owned Parking with Public Access,13.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,699.0499032,21942.31812
+17,17,17,0.0,0.0,Comerica - 333 W. Santa Clara,333 West Santa Clara St.,Privately Owned Parking with Public Access,618.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,1048.111077,47758.17848
+18,18,18,0.0,0.0,County Courthouse,65 Almaden Bl,City of San Jose,49.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,717.8734657,30641.21163
+19,19,19,0.0,0.0,Opus West - 225 W. Santa Clara,"225 West Santa Clara St, San Jose, CA",Privately Owned Parking with Public Access,803.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,1120.581601,71352.50805
+20,20,20,0.0,0.0,San Pedro Square,"45 South San Pedro Street, San Jose, CA",Privately Owned Parking with Public Access,126.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,902.6958648,37883.87434
+21,21,21,0.0,0.0,Victory Parking,64 North Market St.,Privately Owned Parking with Public Access,439.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,2143.583207,142743.4163
+22,22,22,0.0,0.0,3rd Street Garage,"95 North 3rd Street, San Jose, CA",City of San Jose,836.0,8.0,13.0,26.0,Yes,Garage,6.0,265.0,31.0,89172.0,0.0,2021/06/23 00:08:35+00,none,1075.7217,55050.01954
+23,23,23,0.0,0.0,Koll Building Garage,"60 South Market Street, San Jose, CA",Privately Owned Parking with Public Access,798.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,856.7184793,40976.84825
+24,24,24,0.0,0.0,Santa Clara St (Under 87),Santa Clara Street and 87,City of San Jose,267.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,1455.898665,100649.3561
+25,25,25,0.0,0.0,160 W. Santa Clara,"160 West Santa Clara Street, San Jose, CA",Privately Owned Parking with Public Access,528.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,1052.121144,68337.60781
+26,26,26,0.0,0.0,Hyatt Place Hotel Garage,"282 Almaden Boulevard, San Jose, CA",Privately Owned Parking with Public Access,258.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,777.7652287,35074.57907
+27,27,27,0.0,0.0,Market & San Carlos (Block 8),"298 South Market Street, San Jose, CA",City of San Jose,120.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,1042.004769,44283.17358
+28,28,28,0.0,0.0,Pavilion Garage,"150 South 1st Street, San Jose, CA",Privately Owned Parking with Public Access,261.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,1172.711431,85660.95731
+29,29,29,0.0,0.0,Riverpark,"333 West San Carlos Street, San Jose, CA",Privately Owned Parking with Public Access,1375.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,891.1915096,48920.07011
+30,30,30,0.0,0.0,Globe Garage (25 S 3rd St),"25 South 3rd Street, San Jose, CA",City of San Jose,176.0,0.0,3.0,16.0,Yes,Garage,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,875.0505443,44812.39361
+31,31,31,0.0,0.0,2nd/San Fernando (Block 2),"8 East San Fernando Street, San Jose, CA",Privately Owned Parking with Public Access,154.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,867.326293,43512.7159
+32,32,32,0.0,0.0,4th Street Garage,"44 South 4th Street, San Jose, CA",City of San Jose,745.0,6.0,14.0,16.0,Yes,Garage,7.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,1080.8719,55832.73137
+33,33,33,0.0,0.0,Ernst & Young Garage,303 Almaden Blvd,Privately Owned Parking with Public Access,400.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,843.4599347,46432.88224
+34,34,34,0.0,0.0,Almaden Bl & Woz Wy Lot,"401 Almaden Boulevard, San Jose, CA",City of San Jose,390.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,2283.828865,164011.0188
+35,35,35,0.0,0.0,Nile Parking,"334 South 2nd Street, San Jose, CA",Private,59.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:35+00,none,510.6255315,15849.96664
+36,36,36,0.0,0.0,2nd & San Carlos Garage,"280 South 2nd Street, San Jose, CA",City of San Jose,506.0,7.0,8.0,2.0,Yes,Garage,5.0,74.0,6.0,34210.0,0.0,2021/06/23 00:08:35+00,none,881.2825958,47998.33735
+37,37,37,0.0,0.0,Colonnade (201 S. Fourth),"201 South Fourth Street, San Jose, CA",Privately Owned Parking with Public Access,142.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,880.4417813,45163.12205
+38,38,38,0.0,0.0,SJ State University 4th Street, ,SJSU Parking,1500.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,1387.622617,82039.00388
+39,39,39,0.0,0.0,Auzerais and 87 Surface Lot,Auzerais & 87,City of San Jose,71.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,1039.276711,62538.52265
+40,40,40,0.0,0.0,Sentry Lot (nw c/o Notre Dame/,211 Notre Dame Av,Privately Owned Parking with Public Access,80.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,709.5589226,24157.0036
+41,41,41,0.0,0.0, , ,Private,50.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,614.0222973,23534.17316
+42,42,42,0.0,0.0,Community Towers,111 North Market St,Privately Owned Parking with Public Access,101.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,834.8572872,25811.61961
+43,43,43,0.0,0.0,2nd and St James (Oasis Lot),"235 North 2nd Street, San Jose, CA",City of San Jose,130.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,994.1376718,37019.7275
+44,44,44,0.0,0.0,Valley Title,"350 South 1st Street, San Jose, CA",Privately Owned Parking with Public Access,294.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,1649.601056,90722.88581
+45,45,45,0.0,0.0,Fountain Alley,35 South Second Street,Privately Owned Parking with Public Access,189.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,965.7975952,44612.80471
+46,46,46,0.0,0.0,Gold Building, ,Privately Owned Parking with Public Access,277.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,555.0494974,18561.28192
+47,47,47,0.0,0.0,California Bank & Trust - 84 W. Santa Clara,"84 West Santa Clara Street, San Jose, CA",Private,57.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,519.2664463,16015.96148
+48,48,48,0.0,0.0,95 S. Market Street,"95 South Market Street, San Jose, CA",Privately Owned Parking with Public Access,97.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,543.1787066,17540.46033
+49,49,49,0.0,0.0,Old West Julian & Terraine Street, ,Private,145.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,955.2039057,52579.88262
+50,50,50,0.0,0.0,San Jose Hilton Towers and Garage,450 Almaden Bl,Private,200.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,1616.408062,139760.9108
+51,51,51,0.0,0.0,Nile Parking,"334 South 2nd Street, San Jose, CA",Privately Owned Parking with Public Access,59.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,1077.370482,43293.93158
+52,52,52,0.0,0.0, ,450 Almaden Bl,Private,106.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,1085.60302,54481.42754
+53,53,53,0.0,0.0,I-280/1st St,"630 South 1st Street, San Jose, CA",City of San Jose,113.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,1026.363741,65448.04267
+54,54,54,0.0,0.0,Adobe Systems Inc Garage,"345 Park Avenue, San Jose, CA",Privately Owned Parking with Public Access,1100.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,1404.663602,123278.0237
+55,55,55,0.0,0.0, , ,Private,1046.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,1216.290522,88101.11109
+56,56,56,0.0,0.0,6th and Saint John,51 N 6th St,Private,28.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,435.9255793,11367.77104
+57,57,57,0.0,0.0,South 7th Lot,"282 East Santa Clara Street, San Jose, CA",Private,90.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,934.8565981,52803.64172
+58,58,58,0.0,0.0,79 North 5th Street,"79 North 5th Street, San Jose, CA",Private,40.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:36+00,none,630.8822321,11038.57951
+59,59,59,0.0,0.0,4th & St. John Garage,"50 North 4th Street, San Jose, CA",City of San Jose,1125.0,6.0,21.0,16.0,No,Garage,8.0,705.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,942.939872,53381.0309
+60,60,60,0.0,0.0,Convention Center,450 Almaden Bl,City of San Jose,675.0,8.0,14.0,7.0,Yes,Garage,2.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,1715.875708,175333.4933
+61,61,61,0.0,0.0, ,450 Almaden Bl,Private,213.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,1366.465381,104655.9798
+62,62,62,0.0,0.0,Woz/87 Surface Lot,180 Woz Way,City of San Jose,267.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,1652.550721,127101.0416
+63,63,63,0.0,0.0,South 1st Hotel Lot,"243 South 1st Street, San Jose, CA",Private,47.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,524.3063912,16140.10544
+64,64,64,0.0,0.0,Almaden/Balbach Lot,"500 Almaden Boulevard, San Jose, CA",City of San Jose,45.0,6.0,14.0,16.0,No,Lot,1.0,11.0,2.0,5600.0,0.0,2021/06/23 00:08:37+00,none,516.4588442,16522.8489
+65,65,65,0.0,0.0,Oracle,"488 Almaden Boulevard, San Jose, CA",Private,1100.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,998.5401992,60915.91995
+66,66,66,0.0,0.0,Fairmont Plaza Garage,"50 West San Fernando Street, San Jose, CA",Privately Owned Parking with Public Access,560.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,1334.944253,90294.88692
+67,67,67,0.0,0.0, ,191 N Market St,Private,142.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,1048.18435,67824.53505
+68,68,68,0.0,0.0,1st & San Salvador Lot,"401 South First Street, San Jose, CA",City of San Jose,40.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,609.0156442,21976.6967
+69,69,69,0.0,0.0,Arena Lot D,525 W. Santa Clara Street,City of San Jose,228.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,1075.553383,70450.05538
+70,70,70,0.0,0.0,Poorhouse Bistro (Palermo),"505 West San Fernando Street, San Jose, CA",Privately Owned Parking with Public Access,26.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,715.1763703,29733.34335
+71,71,71,0.0,0.0,Powerplay,56 Montgomery St,Privately Owned Parking with Public Access,30.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,745.2717656,33139.0721
+72,72,72,0.0,0.0,Borch's,20 Autumn St,Privately Owned Parking with Public Access,14.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,487.8765494,14028.83539
+73,73,73,0.0,0.0,Milligan's,130 Autumn St,City of San Jose,89.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,1079.500407,72729.05341
+75,75,75,0.0,0.0,Navlet's (150 South Montgomery Street Surface Lot),"150 South Montgomery Street, San Jose, CA",Privately Owned Parking with Public Access,65.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,840.1129654,42173.09922
+76,76,76,0.0,0.0,Adjacent to Milligan's,405 St John St,Privately Owned Parking with Public Access,17.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,407.5294492,8810.10325
+77,77,77,0.0,0.0,Security Vendor,150 Autumn St,Private,70.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,1613.597526,57070.59102
+78,78,78,0.0,0.0,Stephens Meat Surface Lot,"105 South Montgomery Street, San Jose, CA, 95113",City of San Jose,135.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,1093.141554,72787.99791
+79,79,79,0.0,0.0,Central Place Garage,"143 South Third Street, San Jose, CA",Privately Owned Parking with Public Access,154.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,791.6670751,36180.32005
+80,80,80,0.0,0.0,South hall surface Lot,"435 South Market Street, San Jose, CA 95113",City of San Jose,155.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,2069.519464,181932.3969
+81,81,81,0.0,0.0,The Church,The Church,Privately Owned Parking with Public Access,14.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,481.0071321,14407.93985
+82,82,82,0.0,0.0,484 Old West Julian,484 Old W Juilan,City of San Jose,25.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,471.6233218,13276.2871
+83,83,83,0.0,0.0,Central Place Lot,143 S. Third Street (415) 813-4349,Private,14.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,915.522152,50774.41331
+84,84,84,0.0,0.0,Japantown, ,City of San Jose,14.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,783.2003884,31574.12272
+85,85,85,0.0,0.0,Market & San Pedro Garage,"45 North Market Street, San Jose, CA",City of San Jose,1385.0,9.0,17.0,11.0,Yes,Garage,6.0,467.0,47.0,200428.0,0.0,2021/06/23 00:08:37+00,none,1353.769811,94036.50662
+86,86,86,0.0,0.0,I-280/3rd St,"630 South 3rd Street, San Jose, CA",Privately Owned Parking with Public Access,113.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,987.0648266,59802.54464
+87,87,87,0.0,0.0,Fairmont Hotel Garage,170 S. Market St,Privately Owned Parking with Public Access,14.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2021/06/23 00:08:37+00,none,1081.20787,72431.77897
+88,88,88,0.0,0.0,(Almaden Plaza) Park Center Plaza III,"1 Almaden Boulevard, San Jose, CA",Privately Owned Parking with Public Access,1271.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2023/10/02 19:27:04+00,none,1161.878394,84690.68084
+89,89,89,0.0,0.0,New Adobe Garage,"W San Fernando, San Jose, CA",Privately Owned Parking with Public Access,1271.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2023/10/02 19:27:04+00,none,1202.786101,87525.30374
+90,90,90,0.0,0.0,Delmas East,"374 West Santa Clara Street, San Jose, CA",Privately Owned Parking with Public Access,568.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2023/10/02 19:27:04+00,none,1631.170318,134002.5001
+91,91,91,0.0,0.0,Delmas West,"374 West Santa Clara Street, San Jose, CA",Privately Owned Parking with Public Access,326.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2023/10/02 19:27:04+00,none,1513.552781,112651.3332
+92,92,92,0.0,0.0,Delmas North,"374 West Santa Clara Street, San Jose, CA",Privately Owned Parking with Public Access,568.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2023/10/02 19:27:04+00,none,1393.005529,50137.79383
+93,93,93,0.0,0.0,"Arena Lots A, B and C",525 W. Santa Clara Street,City of San Jose,1422.0,6.0,14.0,16.0,No,Lot,1.0,0.0,0.0,0.0,0.0,2023/10/04 03:58:35+00,none,3063.319756,405862.3992

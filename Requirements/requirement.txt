@@ -1,1 +1,46 @@
+# Python package requirements
+Data Cleaning and Preprocessing:
+pandas: Data manipulation and analysis library.
+numpy: Numerical computing library for handling arrays and mathematical operations.
+scikit-learn: Machine learning library that includes tools for data preprocessing.
 
+Exploratory Data Analysis (EDA):
+matplotlib: Plotting library for creating static, animated, and interactive visualizations.
+seaborn: Statistical data visualization based on matplotlib.
+plotly: Interactive plotting library.
+
+Linear Regression Model:
+scikit-learn: Machine learning library that includes linear regression implementation.
+statsmodels: Statistical models for linear regression and other statistical analyses.
+
+Decision Tree Model:
+scikit-learn: Machine learning library with decision tree implementation.
+
+Gradient Boosting Regressor:
+scikit-learn: Machine learning library with gradient boosting implementation.
+
+xgboost: eXtreme Gradient Boosting library.
+lightgbm: Light Gradient Boosting Machine library.
+
+Random Forest Regressor:
+scikit-learn: Machine learning library with random forest implementation.
+
+ For Evaluating Model
+
+AUC/ROC:
+scikit-learn: Machine learning library with functions for calculating AUC/ROC.
+
+Precision, Accuracy:
+scikit-learn: Machine learning library with functions for calculating precision and accuracy.
+
+Mean Absolute Error (MAE):
+scikit-learn: Machine learning library with functions for calculating MAE.
+
+Mean Squared Error (MSE):
+scikit-learn: Machine learning library with functions for calculating MSE.
+
+Root Mean Squared Error (RMSE):
+scikit-learn: MSE is commonly used, and you can calculate RMSE by taking the square root of MSE.
+
+Mean Absolute Percentage Error (MAPE):
+Custom implementation or use a library like numpy for mathematical operations.

@@ -9,9 +9,9 @@ This paper explores a solution for predicting the number of available parking sl
 Ineffective parking management is an important factor in traffic jams and pollution in a rapid urbanization cities
 The challenge lies in developing a machine learning-driven smart parking solution that optimizes parking space utilization, reduces search time for parking, lowers carbon emissions, and enhances the overall urban living experience
 # credit to the members
-# Jayesh vala:
+# Jayesh Vala:
 Data preprocessing and cleaning, Exploratory data analysis, and model making, evaluating model.
-# Bijna chandera: 
+# Bijna Chandera: 
 references, ppt making, gantt chart, literature reviews, model making.
-# naveen reddy: 
+# Naveen Reddy: 
 refrences, ppt making, model making, evaluting model.

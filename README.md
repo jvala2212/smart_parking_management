@@ -10,7 +10,7 @@ Ineffective parking management is an important factor in traffic jams and pollut
 The challenge lies in developing a machine learning-driven smart parking solution that optimizes parking space utilization, reduces search time for parking, lowers carbon emissions, and enhances the overall urban living experience
 # credit to the members
 # Jayesh Vala:
-Data preprocessing and cleaning, Exploratory data analysis, and model making, evaluating model.
+Data preprocessing and cleaning, Exploratory data analysis, and model making, evaluating model, streamlit app.
 # Bijna Chandera: 
 references, ppt making, gantt chart, literature reviews, model making.
 # Naveen Reddy: 
